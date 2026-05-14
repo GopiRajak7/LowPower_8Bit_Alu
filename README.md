@@ -28,5 +28,5 @@ The architecture was verified using static DC inputs to eliminate pulsing simula
 * LTspice (Schematic capture and SPICE simulation)
 
 
-* **Programmer: Ayush Tiwari**
+* **Programmer: Gopi Rajak**
 * **Branch: EE VLSI Design and Technology**
